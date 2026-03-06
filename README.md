@@ -29,10 +29,5 @@ Nothing special — just trying things and learning along the way.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME\&show_icons=true\&theme=transparent)
-
----
 
 *"Just testing things."*
